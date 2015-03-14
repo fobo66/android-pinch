@@ -7,7 +7,7 @@ Adds multi-touch zoom to; ImageViews, WebViews, and MapViews. Simply use the cor
 
 # Getting Started #
 
-For more information on how to implement he pinch views, check out the [Wiki](PinchImageView.md).
+For more information on how to implement he pinch views, check out the [Wiki](https://github.com/fobo66/android-pinch/wiki/PinchImageView).
 
 ## Quick Example ##
 
